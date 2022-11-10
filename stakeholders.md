@@ -153,7 +153,7 @@ Responses from open source libraries, indexers, educational resources, and commu
 | [`bch-rpc-explorer`](https://github.com/sickpig/bch-rpc-explorer) |   `v2.2.0`    |   ✅    |            |         |         |
 | [BCH DevSuite](https://devsuite.actorforth.org/)                  |   `v2.2.0`    |   ✅    |            |         |         |
 | [`bchtipbot`](https://github.com/merc1er/bchtipbot)               |   `v2.2.0`    |   ✅    |            |         |         |
-| [BCHMempool.cash](https://bchmempool.cash/)                       |   `v2.2.0`    |         |            |         |   ⏳    |
+| [BCHMempool.cash](https://bchmempool.cash/)                       |   `v2.2.0`    |   ✅    |            |         |         |
 | [bestbchwallets.com](https://www.bestbchwallets.com/)             |   `v2.2.0`    |   ✅    |            |         |         |
 | [Bitauth IDE](https://ide.bitauth.com)                            |   `v2.2.0`    |   ✅    |            |         |         |
 | [BitcartCC](https://bitcartcc.com/)                               |   `v2.2.0`    |   ✅    |            |         |         |
